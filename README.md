@@ -6,18 +6,18 @@ arpitpdf@gmail.com  +1-206-398-5881
 
 https://www.linkedin.com/in/arpit-mishra-phd-810941b/
 
-- An experienced hybrid biomedical scientist with a demonstrated history of working in a professional and academic setting for over 8 years.
-- Currently, working on autoimmune disease associated non-coding variants for their possible target genes and underlying disease mechanism.
-- Prioritized regulatory variants by combining GWAS hits and epigenomic features such as enhancer marks, ATAC-Seq peaks.
-- Identified possible target genes/genomic regions for 5600 autoimmune disease related enhancer variants using capture Hi-C in Th1, Th2 and Th17 cells.
-- Allelic activity for regulatory variants in disease relevant primary cell types such as Th1, Th2 and Th17 using allelic MPRA
-- Validated MPRA hits and Capture Hi-C regulatory variant-target gene pairs using arrayed and pooled genome editing approaches in primary T cells and Jurkat T cells.
-- Previously successfully completed projects in the areas ranging from protein engineering, Structure-functional studies, biophysics of small molecule-DNA interactions, protein purification and activity optimization for novel high fidelity CAS9 enzymes for genome editing, optimizing RNP approaches for genome editing, Off target CRISPR integration and on target analysis for Adenovirus mediated CRISPR edits.
+- An experienced hybrid biomedical scientist with a demonstrated history of working in a professional and academic setting for over eight years.
+- Currently, working on autoimmune diseases associated with non-coding variants for their possible target genes and underlying disease mechanism.
+- Prioritized approx. Eight thousand five hundred autoimmune regulatory variants by combining GWAS hits and epigenomic features such as enhancer marks, ATAC-Seq peaks.
+- Identified possible target genes/genomic regions for 5600 autoimmune disease-related enhancer variants using capture Hi-C in Th1, Th2, and Th17 cells.
+- Allelic activity for regulatory variants in disease-relevant primary cell types such as Th1, Th2, and Th17 using allelic MPRA
+- Validated MPRA hits and Capture Hi-C regulatory variant-target gene pairs using arrayed and pooled genome editing approach in primary T cells and Jurkat T cells.
+- Previously completed projects in areas ranging from protein engineering, Structure-functional studies, biophysics of small molecule-DNA interactions, genome editing, Off-target CRISPR integration, and target analysis Adenovirus-mediated CRISPR edits.
 
 - **Key Skills:**
-Benchwork: Functional genomics using ChIP seq, RNA-Seq, Sc RNA-Seq (droplet and combinatorial indexing based approach), Hi-C, Capture HiC, MPRA, STARR-Seq, CRISPR screens , On target off target library preparation, library sequencing using illumina platform (Next-seq 550)
+Benchwork: Functional genomics using ChIP seq, RNA-Seq, Sc RNA-Seq (droplet and combinatorial indexing based approach), Hi-C, Capture Hi-C, MPRA, STARR-Seq, CRISPR screens, On target off target library preparation, library sequencing using Illumina platform (Next-seq 550)
 - **Computational work:**
-NGS data analysis for RNA-Seq, Sc RNA-Seq, HI-C, Capture Hi-C, CRISPR off target on target analysis, and data visualization using Shell scripting, R and Python packages, version control with GIT, (https://github.com/bioarpit1)
+NGS data analysis for RNA-Seq, Sc RNA-Seq, HI-C, Capture Hi-C, CRISPR off-target on target analysis, and data visualization using Shell scripting, R and Python packages, version control with GIT, (https://github.com/bioarpit1)
 
 **Professional Experience (Recent)**
 
@@ -25,10 +25,11 @@ NGS data analysis for RNA-Seq, Sc RNA-Seq, HI-C, Capture Hi-C, CRISPR off target
 
 **Senior Fellow,** 2017 to Present
 
-- Delineating target genes for autoimmune disease-associated regulatory variants using 3D genomics, MPRA and genome editingOptimization and implementation of CRISPR-CAS9-mediated gene editing in primary T helper cells.
-- Generated NGS libraries for different omics assays such as ChIP-Seq, RNA-Seq, ScRNA-Seq (Split-pool), Hi-C, capture Hi-C, MPRA libraries, CRISPR off target NGS libraries.
+- Currently delineating target genes for autoimmune disease-associated regulatory variants using 3D genomics, MPRA, and genome editing
+- Optimized and the implemented CRISPR-CAS9-mediated gene editing primary T helper cells.
+- Generated NGS libraries for different omics assays such as ChIP-Seq, RNA-Seq, ScRNA-Seq (Split-pool), Hi-C, capture Hi-C, MPRA libraries, CRISPR off-target NGS libraries.
 - Library QC using bioanalyzer and NGS run using Next-Seq 550 platform.
-- Demultiplexing data and NGS data analysis using appropriate pipeline such as HiCUP, Chicago (Hi-C, capture Hi-C), DE-Seq 2 (RNA-Seq), MACS and Deeptools (ChIP-Seq), Scanpy, ScPrep, Seurat and monocle3 (ScRNA-Seq), MPRAnalyze (MPRA, STARR-seq), CRISPRESSO2 (CRISPR NGS libraries).
+- Demultiplexing and data analysis using appropriate pipeline such as HiCUP, Chicago (Hi-C, capture Hi-C), DE-Seq 2 (RNA-Seq), MACS and Deeptools (ChIP-Seq), Scanpy, ScPrep, Seurat and monocle3 (ScRNA-Seq), MPRAnalyze (MPRA, STARR-seq), CRISPRESSO2 (CRISPR NGS libraries).
 
 **Institute of Genomics &amp; Integrative biology**
 
@@ -36,20 +37,20 @@ NGS data analysis for RNA-Seq, Sc RNA-Seq, HI-C, Capture Hi-C, CRISPR off target
 
 **Genome editing:**
 
-- Heterologus Purification and characterization of naturally accuring high fedelity CAS9 from _francisella novicida_ (FnCAS9)
+- Heterologous Purification and characterization of naturally occurring high fidelity CAS9 from _francisella novicida_ (FnCAS9)
 - Optimized in vitro cleavage assay (IVC) for comparing SpCAS9 and FnCAS9
-- Comparison of enzyme kinetics for cleavage using IVC and bio-physical methods.
+- Comparison of enzyme kinetics for cleavage using IVC and biophysical methods.
 - In vivo genome editing optimization for FnCAS9 in mouse embryonic stem cells.
-- Off target comparison between FnCAS9 and Sp CAS9 using ChIP-seq.
-- supplied FPLC Purified and activity tested SpCAS9 and FnCAS9 to many labs across the institute.
+- Off-target comparison between FnCAS9 and Sp CAS9 using ChIP-seq.
+- Supplied FPLC Purified and activity tested SpCAS9 and FnCAS9 to many labs across the institute.
 
 **Synthetic biology:**
 
-- investigated the effects of various ionic liquids on DNA-small molecule interection using bio physical method such as CD spectroscopy,UV melting and isothermal titration calorimetry(ITC)
+- investigated the effects of various ionic liquids on DNA-small molecule interaction using biophysical methods such as CD spectroscopy, UV melting, and isothermal titration calorimetry(ITC)
 
 **Educational Background**
 
-**PhD in Bio** – **Technology** Institute of Genomics and integrative biology , New Delhi and Savitribai Phule Pune University,Pune India
+**Ph.D. in Bio** - **Technology** Institute of Genomics and integrative biology, New Delhi and Savitribai Phule Pune University, Pune India
 
 **Masters (MSc) in Microbiology**–TheMaharaja Sayajirao University of baroda, Vadodara, India
 
@@ -84,15 +85,13 @@ NGS data analysis for RNA-Seq, Sc RNA-Seq, HI-C, Capture Hi-C, CRISPR off target
 
 - Senior Research Fellowship Council for Scientific and Industrial Research, India
 - Junior Research Fellowship Council for Scientific and Industrial Research, India
-- Best poster/oral presentation at the EMBO global exchange lecture course on &quot;structural and bio-physical methods for biological macromolecules in solution&quot;held at CSIR-CCMB,hydrabad india 2012
-- Selected in prestigious STEP(science teaching experience for post-doctoral).
-- Designed and taught senior year 2 credit course on genome editing in disease treatment as a STEP fellow.
+- Best poster/oral presentation at the EMBO global exchange lecture course on &quot;structural and biophysical methods for biological macromolecules in solution&quot; held at CSIR-CCMB, Hyderabad India 2012
+- Participated in the prestigious STEP(science teaching experience for postdoctoral) program
+- Designed and taught senior year two-credit course on genome editing in disease treatment as a STEP fellow.
 
 **Technical Proficiencies**
 
-| **Molecular Biology Tools &amp; Techniques** | PCR | Primer/probe design | quantitative real time PCR (qRT-PCR) | CRISPR-Cas9 | Gene editing analysis | DNA, RNA and protein isolation, plasmid library preparation |Gibson assembly of highthroughput MPRA and CROP-Seq libraries | In vitro transcription | Gene cloning | Site-directed mutagenesis | vector design using Benchling tool|| ChIP-Seq libraries | Hi-C and Capture Hi-C libraries | ATAC-Seq libraries | RNA-Seq libraries | Single cell RNA-Seq libraries (combinatorial indexing based)| lentiviral packaging |
-| --- | --- |
+| **Molecular Biology Tools &amp; Techniques** | PCR | Primer/probe design | quantitative real-time PCR (qRT-PCR) | CRISPR-Cas9 | Gene editing analysis | DNA, RNA and protein isolation, plasmid library preparation |Gibson assembly of high-throughput MPRA and CROP-Seq libraries | In vitro transcription | Gene cloning | Site-directed mutagenesis | vector design using Benchling tool|| ChIP-Seq libraries | Hi-C and Capture Hi-C libraries | ATAC-Seq libraries | RNA-Seq libraries | Single-cell RNA-Seq libraries (combinatorial indexing based)| lentiviral packaging |
 | **Protein Analysis** | Recombinant protein expression and purification in _E. coli_, animal cells | western blots | Immunoprecipitation | EMSA | FPLC | CD spectroscopy | ITC titrations |
-| **Bioinformatics and N**** GS analysis** | ChIP-Seq | ATAC-Seq |RNA-Seq |Sc RNA-Seq | Hi-C, Capture Hi-C |MPRA data analysis using R and Python packages from Bioconductor and Bioconda repositories| Input data preparation for variety of R/Python packages using Awk|Pandas and Numpy|reproductive pipeline environment stored using Jupyter notebooks and pushed them to git repository |
-| **Mammalian Cell Culture Assays** | Mammalian cell culture (representing adherent cell lines such as HEK 293-T, mESCs, Hela, and suspension cell lines such as K562, Jurkat, primary T cell culture ) | PBMC to CD4 isolation| T cell activation/proliferation|Genome-editing in naïve CD4 T Cells | electroporation using NEON system| transduction using lentiviral and adenoviral particles| Stable cell line generation using lentivirus | Flow cytometry | Cryopreservation |
-
+| **Bioinformatics and N**** GS analysis** | ChIP-Seq | ATAC-Seq |RNA-Seq |Sc RNA-Seq | Hi-C, Capture Hi-C |MPRA data analysis using R and Python packages from Bioconductor and Bioconda repositories| Input data preparation for a variety of R/Python packages using Awk, pandas, and numpy |reproductive pipeline environment stored using Jupyter notebooks and pushed them to the git repository |
+| **Mammalian Cell Culture Assays** | Mammalian cell culture (representing adherent cell lines such as HEK 293-T, mESCs, Hela, and suspension cell lines such as K562, Jurkat, primary T cell culture) | PBMC to CD4 isolation| T cell activation/proliferation |Genome-editing in naïve CD4 T Cells | electroporation using NEON system| transduction using lentiviral and adenoviral particles| Stable cell line generation using lentivirus | Flow cytometry | Cryopreservation |
