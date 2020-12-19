@@ -96,4 +96,3 @@ NGS data analysis for RNA-Seq, Sc RNA-Seq, HI-C, Capture Hi-C, CRISPR off target
 | **Bioinformatics and N**** GS analysis** | ChIP-Seq | ATAC-Seq |RNA-Seq |Sc RNA-Seq | Hi-C, Capture Hi-C |MPRA data analysis using R and Python packages from Bioconductor and Bioconda repositories| Input data preparation for variety of R/Python packages using Awk|Pandas and Numpy|reproductive pipeline environment stored using Jupyter notebooks and pushed them to git repository |
 | **Mammalian Cell Culture Assays** | Mammalian cell culture (representing adherent cell lines such as HEK 293-T, mESCs, Hela, and suspension cell lines such as K562, Jurkat, primary T cell culture ) | PBMC to CD4 isolation| T cell activation/proliferation|Genome-editing in naïve CD4 T Cells | electroporation using NEON system| transduction using lentiviral and adenoviral particles| Stable cell line generation using lentivirus | Flow cytometry | Cryopreservation |
 
-_Continued…_
