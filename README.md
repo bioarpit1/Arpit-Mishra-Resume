@@ -7,6 +7,7 @@ arpitpdf@gmail.com  +1-206-398-5881
 https://www.linkedin.com/in/arpit-mishra-phd-810941b/
 
 - An experienced hybrid biomedical scientist with a demonstrated history of working in a professional and academic setting for over eight years.
+- Experienced working with broad biological disciplines such as genomics, protein engineering, biophysics, and genome editing with a successful publication history.
 - Currently, working on autoimmune diseases associated with non-coding variants for their possible target genes and underlying disease mechanism.
 - Prioritized approx. Eight thousand five hundred autoimmune regulatory variants by combining GWAS hits and epigenomic features such as enhancer marks, ATAC-Seq peaks.
 - Identified possible target genes/genomic regions for 5600 autoimmune disease-related enhancer variants using capture Hi-C in Th1, Th2, and Th17 cells.
